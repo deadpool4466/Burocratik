@@ -419,9 +419,9 @@ video{
 }
 /* Responsive styling */
 @media (max-width: 768px) {
-    .demo-1-img{
-        height: 80px;
-    }
+   .demo-image-bg{
+	   display:none;
+   }
     .navbar {
         color: #000;
         margin: 0px;
